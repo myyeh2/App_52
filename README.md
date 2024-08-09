@@ -1,6 +1,6 @@
-<!--     範例 App_51  Markdown         -->
+<!--     範例 App_52  Markdown         -->
 
-### 
+###  
 <!--                 
 # \[{  \color{Fuchsia}精\;銳\; \color{Purple}矩\;陣\;  \color{Red}計\;算\; \color{Green} 求\;解\;器  }\] 
 -->  
@@ -17,32 +17,29 @@
 <!--   
 ## \[{ \color{Fuchsia} Time-Frequency-Signal \;(Response) \quad Solution  }\] 
 -->
-![](Images/11-30-01.png)    
+![](Images/11-30-01.png)  
 
- 
 <!--     ##### \[ using \]   -->
-<!--  ![](Images/11-30-07.png)  -->   
-##### $$using$$
+![](Images/11-30-07.png)
+<!--    ##### $$using$$  -->  
 
 <!--   
 ## \[  \color{Red} Precisely \; Numerical \; Value \; Computations  \]  
 -->  
-![](Images/11-30-02.png) 
+![](Images/11-30-02.png)  
 
-  
-<!--     ##### \[ with \]   -->   
-<!--    ![](Images/11-30-08.png)   -->   
-##### $$with$$
+<!--     ##### \[ with \]   -->  
+![](Images/11-30-08.png)
+<!--     ##### $$with$$   -->  
 
 <!--   
 ## \[{ \color{Green} Real \; \color{Red} And \; \color{magenta} Complex \quad \; \color{Brown} Matrix \;\; Transform  }\] 
 -->
 ![](Images/11-30-03.png)  
 
-  
-<!--         ##### \[ Part \; 1 \]    -->   
-<!--    ![](Images/11-30-09.png)     -->   
-##### $$Part \quad 5$$
+<!--         ##### \[ Part \; 1 \]    -->  
+<!--    ![](Images/11-30-09.png)     -->  
+<!--    ##### $$Part \quad 5$$  -->  
 
 ####
 
