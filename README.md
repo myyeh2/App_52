@@ -83,8 +83,9 @@ $$
 
 <!--      
 # $$個\quad人\quad的\quad見\quad解：$$
--->  
 # \[{ \color{Brown} 個 \quad 人 \quad 的 \quad 見 \quad 解 \quad : }\]
+-->
+![](Images/24-10-12-2.png)  
 
 ### ( 1 ) .... ***有關儲存庫App_50和App_51是參考上述網站中的實例，實際撰寫CSharp程式碼，求得響應值【y】，並繪製時間與響應訊號圖。***  
 
