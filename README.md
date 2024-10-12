@@ -4,7 +4,7 @@
 <!--                 
 # \[{  \color{Fuchsia}精\;銳\; \color{Purple}矩\;陣\;  \color{Red}計\;算\; \color{Green} 求\;解\;器  }\] 
 -->  
-![](Images/11-10-01.png) 
+![](Images/11-10-01.png)
 
 
 <!--         
@@ -45,12 +45,15 @@
 
 ---  
 
-# $$時\quad頻\quad數\quad值\quad計\quad算$$   
+<!--  
+# \[ { \color{Chocolate} 時 \quad 頻 \quad 數 \quad 值 \quad 計 \quad 算  } \]
 
-### $$Precisely \quad Time-Frequency \quad Numerical \quad Computations$$  
+### \[ { \color{Olive} Precisely \quad Time-Frequency \quad Numerical \quad Computations } \]  
+-->
+
+![](Images/24-10-12-1.png)  
 
 <!--  
-
 # $$本實例程式碼\quad請參見本儲存庫$$ 
 
 ## $$已知實例如下 ：$$
@@ -68,7 +71,6 @@ $$y(t) =
 $$ 
 
 ### $$條 \quad 件 \quad ： \quad t \geq 0 \quad 且 \quad t \leq \quad 2 \times \pi$$  
-
 -->
 
 ##  
